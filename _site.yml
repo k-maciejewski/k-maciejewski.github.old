@@ -1,0 +1,17 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<km3304@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/k-maciejewski/
+    - icon: fa-instagram fa-lg
+      href: http://instagram.com/mili_from_chile
+output:
+  html_document:
+    theme: sandstone
+  

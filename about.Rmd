@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+### About this site
+
+This site was created as an assignment for my Data Science 1 class.
+
+My [linkedin](https://www.linkedin.com/in/kmaciejewski/)
+
+My [CV](kaitlin.maciejewski.pdf)
