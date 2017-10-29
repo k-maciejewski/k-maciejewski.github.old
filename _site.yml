@@ -5,12 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - icon: fa-envelope fa-lg
+    - icon: fa-envelope fa-2x
       href: mailto:<km3304@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/k-maciejewski/
-    - icon: fa-instagram fa-lg
-      href: http://instagram.com/mili_from_chile
+    - icon: fa-linkedin-square fa-2x
+      href: https://www.linkedin.com/in/kmaciejewski/
+    - icon: fa-github-square fa-2x
+      href: https://github.com/k-maciejewski/
+    - icon: fa-instagram fa-2x
+      href: https://instagram.com/mili_from_chile
 output:
   html_document:
     theme: sandstone
