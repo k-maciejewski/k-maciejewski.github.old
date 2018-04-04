@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am a highly motivated, organized, and hard-working Biostatistics Masters student at the Mailman School of Public Health at Columbia University. I have experience working in a lab setting and office setting. I have used different technologies and software in projects and internships. I am tech-savvy and able to quickly learn new skills. I have worked with many different age ranges and backgrounds. 
+I am a highly motivated, organized, and hard-working Biostatistics Masters student (class of 2019) at the Mailman School of Public Health at Columbia University. I have experience working in a lab setting and office setting. I have used different technologies and software in projects and internships. I am tech-savvy and able to quickly learn new skills. I have worked with many different age ranges and backgrounds. 
 
 
 My [CV](kaitlin_maciejewski.pdf) can be found here.
