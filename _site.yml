@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "About"
 output_dir: "."
 navbar:
   title: "Home"
@@ -11,8 +11,6 @@ navbar:
       href: https://www.linkedin.com/in/kmaciejewski/
     - icon: fa-github-square fa-2x
       href: https://github.com/k-maciejewski/
-    - icon: fa-instagram fa-2x
-      href: https://instagram.com/mili_from_chile
 output:
   html_document:
     theme: sandstone
