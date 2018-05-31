@@ -5,13 +5,15 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - icon: fa-envelope fa-2x
+    - text: "Projects"
+      href: Projects.html
+    - icon: fa-envelope
       href: mailto:<km3304@cumc.columbia.edu>
-    - icon: fa-linkedin-square fa-2x
+    - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/kmaciejewski/
-    - icon: fa-github-square fa-2x
+    - icon: fa-github-square
       href: https://github.com/k-maciejewski/
 output:
   html_document:
-    theme: sandstone
+    theme: flatly
   
