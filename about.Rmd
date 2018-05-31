@@ -4,8 +4,10 @@ title: "About"
 
 I am a highly motivated, organized, and hard-working Biostatistics Masters student (class of 2019) at the Mailman School of Public Health at Columbia University. I have experience working in a lab setting and office setting. I have used different technologies and software in projects and internships. I am tech-savvy and able to quickly learn new skills. I have worked with many different age ranges and backgrounds. 
 
+I am very interested in the application of data science and big data to health care. I hope that we can use data-driven decisions to improve health care and access to care! I am interested in mental health, maternal health, mapping and visualization tools, and opthalmic care.
+
 
 My [CV](kaitlin_maciejewski.pdf) can be found here.
 
-My undergraduate [capstone project](maciejewski_capstone.pdf), completed at Fairfield University in 2015, under the guidance of Professor Shawn Rafalski.
+
 
