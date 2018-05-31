@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Projects"
-      href: projects.html
+      href: Projects.html
     - icon: fa-envelope
       href: mailto:<km3304@cumc.columbia.edu>
     - icon: fa-linkedin-square
