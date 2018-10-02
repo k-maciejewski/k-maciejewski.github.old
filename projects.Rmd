@@ -12,6 +12,12 @@ I solved the Schwarzschild Solution to Einstein's equations, with simplifying as
 
 #
 #
+<!-- ### [Playing with Honey Data](link) -->
+<!-- info -->
+
+#
+#
+
 
 ### [A Geolocation and Sentiment Analysis of Tweets](https://k-maciejewski.github.io/p8105_final_website/index.html) 
 
