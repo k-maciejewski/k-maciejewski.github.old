@@ -19,6 +19,7 @@ I solved the Schwarzschild Solution to Einstein's equations, with simplifying as
 #
 
 
+
 ### [A Geolocation and Sentiment Analysis of Tweets](https://k-maciejewski.github.io/p8105_final_website/index.html) 
 
 - Final project for Data Science 1 course at Columbia University Mailman School of Public Health, in collaboration with: Kathryn Addabbo, Peter Batten, Morgan de Ferrante, Nadiya Pavlishyn. 
