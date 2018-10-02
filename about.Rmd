@@ -7,7 +7,7 @@ I am a highly motivated, organized, and hard-working Biostatistics Masters stude
 I am very interested in the application of data science and big data to health care. I hope that we can use data-driven decisions to improve health care and access to care! I am interested in mental health, maternal health, mapping and visualization tools, and opthalmic care.
 
 
-My [CV](Kaitlin_Maciejewski.pdf) can be found here.
+My [CV](kaitlin_maciejewski.pdf) can be found here.
 
 
 
