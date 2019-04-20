@@ -18,7 +18,12 @@ I solved the Schwarzschild Solution to Einstein's equations, with simplifying as
 #
 #
 
+### [Dashboard tutorial](https://kmaciejewski.shinyapps.io/Dashboarding/) [and shell](https://kmaciejewski.shinyapps.io/MaternalDashboard/)
 
+Tutorial information of how to create a Shiny flexdashboard in R, and recreation of Tableau dashboard with fake data, aimed at beginner R-users. Since sharing Tableau dashboards requires the user to download a reader, I was tasked with creating a dashboard that could be shared in Shiny, as a recreation of an existing Tableau dashboard, and so that real data could easily be added. This pertains to a project to share monthly updates about maternal prenatal and postpartum depression screening.
+
+#
+#
 
 ### [A Geolocation and Sentiment Analysis of Tweets](https://k-maciejewski.github.io/p8105_final_website/index.html) 
 
