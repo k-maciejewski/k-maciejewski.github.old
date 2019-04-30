@@ -18,7 +18,7 @@ I solved the Schwarzschild Solution to Einstein's equations, with simplifying as
 #
 #
 
-### [Dashboard tutorial](https://kmaciejewski.shinyapps.io/Dashboarding/) [and shell](https://kmaciejewski.shinyapps.io/MaternalDashboard/)
+### [Dashboard tutorial and shell](https://kmaciejewski.shinyapps.io/MaternalDashboard/)
 
 - Completed as part of an internship at NYC DOHMH.
 
