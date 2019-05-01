@@ -33,7 +33,7 @@ RStudio, Shiny, SAS, SQL, Tableau, Matlab
 - Insurance, access to care, attitudes and barriers to care
 
 
-My [CV](kaitlin_maciejewski.pdf) can be found here.
+## My [CV](kaitlin_maciejewski.pdf) can be found here.
 
 
 
