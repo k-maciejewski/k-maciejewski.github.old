@@ -8,11 +8,14 @@ navbar:
     - text: "Projects"
       href: projects.html
     - icon: fa-envelope
-      href: mailto:<km3304@cumc.columbia.edu>
+      href: mailto:<katemac68@gmail.com>
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/kmaciejewski/
     - icon: fa-github-square
       href: https://github.com/k-maciejewski/
+    - icon: fa-instagram-square
+      href: https://www.instagram.com/mili_from_chile/
+      
 output:
   html_document:
     theme: flatly
