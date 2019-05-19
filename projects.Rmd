@@ -22,7 +22,9 @@ I solved the Schwarzschild Solution to Einstein's equations, with simplifying as
 
 - Completed as part of an internship at NYC DOHMH.
 
-Tutorial information of how to create a Shiny flexdashboard in R, and recreation of Tableau dashboard with fake data, aimed at beginner R-users. There was an existing Tableau dashboard about maternal prenatal and postpartum depression screening. However, since sharing Tableau dashboards requires the user to download a reader, I was tasked with creating a dashboard that could be shared with Shiny, and so that the real data could easily be added. 
+Tutorial information of how to create a Shiny flexdashboard in R, and recreation of Tableau dashboard with fake data, aimed at beginner R-users. 
+
+There was an existing Tableau dashboard about maternal prenatal and postpartum depression screening. However, since sharing Tableau dashboards requires the user to download a reader, I was tasked with creating a dashboard that could be shared with Shiny, and so that the real data could easily be added. One of the main asks of this project was to incorporate a flexible and user friendly way to compare sites, which is why there are three options.
 
 #
 #
