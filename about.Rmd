@@ -2,11 +2,9 @@
 title: "About"
 ---
 
-I am a highly motivated, organized, and hard-working Biostatistics Masters student at the Mailman School of Public Health at Columbia University, class of 2019. 
+I am a recent graduate from the Mailman School of Public Health at Columbia University, where I earned my Masters in Biostatistics.
 
-I was a TA in Fall 2018 for Intro to Biostatistics for non-statisticians, in which I collaborated to create an RStudio tutorial for students, and gained experience in explaining statitical topics and theories to students of different backgrounds. 
-
-I am currently an intern at the NYC Department of Health and Mental Hygiene. I created SQL tables and scripts to join data from different sources, geocoded and calculated distance measures. This was to create and update several dashboards in Tableau to flexibly present data in a variety of geographic areas. I mapped events pertaining to sites of interest that provide various NYC mental and behavioral health resources, within user-specified distance measures, to identify frequent utilization of FDNY’s Emergency Response System, potentially related to mental health services. I facilitated the use of alternate visualization packages by creating a demo and tutorial materials for Shiny flexdashboards in R, including a dashboard that presents screening and referral statistics for maternal depression at multiple sites. I also led the analysis and interpretation of data from the annual NYC Community Health Survey to investigate the relationship between depression status and insurance type and feelings of discrimination in healthcare, controlling for demographic and socioeconomic variables.
+I am currently a biostatistician at the Yale Center for Analytics Sciences.
 
 I hope to use data-driven decisions to improve health care and access to care!
 
@@ -20,20 +18,16 @@ I hope to use data-driven decisions to improve health care and access to care!
 - Best statistical practices
 - Study design and analysis methods
 - Collaboration across disciplines
+- Science education and awareness
 
 ### Tools of the trade: 
 
-RStudio, Shiny, SAS, SQL, Tableau, Matlab
+RStudio, Shiny, SAS, SQL, Tableau, Matlab, loops and arrays ... why do something by hand when a few lines of code can do it just as well!
 
 ### Research interests:
+- Big data, data management, data visualization
 - Mental health
 - Maternal health
 - Cancer
 - Opthalmic care
 - Insurance, access to care, attitudes and barriers to care
-
-
-## My [CV](kaitlin_maciejewski.pdf) can be found here.
-
-
-
