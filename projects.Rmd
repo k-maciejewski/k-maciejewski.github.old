@@ -4,27 +4,35 @@ title: "Projects"
 #
 #
 
-### [My undergraduate capstone project](maciejewski_capstone.pdf)
+### [Undergraduate capstone project:](maciejewski_capstone.pdf)
+#### Overview of General Relativity
 
 - Completed at Fairfield University in 2015, under the guidance of Professor Shawn Rafalski. 
 
 I solved the Schwarzschild Solution to Einstein's equations, with simplifying assumptions, such as a 2-D space. These solutions were applied in the MATLAB ODE solver, to visualize the effects of different initial conditions on the behavior of a test particle.
 
+
 #
 #
-<!-- ### [Playing with Honey Data](link) -->
-<!-- info -->
+
+### Graduate capstone project: 
+#### The relationship between depression and sociodemographic and economic characteristics in New York City adults 2016-2017
+
+- Completed as a graduation requirement Columbia University in 2019, under the guidance of Lauren Martini at the New York City Department of Health and Mental Hygiene. 
+
+Analysis of the NYC Community Health Survey (2016 - 2017), investigating depression, socioeconomic factors, and discrimination in NYC. Data management and analysis was in SAS and SAS-callable SUDAAN, and I produced a poster and manuscript report.
+
 
 #
 #
 
 ### [Dashboard tutorial and shell](https://kmaciejewski.shinyapps.io/MaternalDashboard/)
 
-- Completed as part of an internship at NYC DOHMH.
+- Completed during my internship at the New York City Department of Health and Mental Hygiene.
 
-Tutorial information of how to create a Shiny flexdashboard in R, and recreation of Tableau dashboard with fake data, aimed at beginner R-users. 
+Recreation of Tableau dashboard with fake data, aimed at beginner R-users and tutorial information of how to create a Shiny flexdashboard in R. 
 
-There was an existing Tableau dashboard about maternal prenatal and postpartum depression screening. However, since sharing Tableau dashboards requires the user to download a reader, I was tasked with creating a dashboard that could be shared with Shiny, and so that the real data could easily be added. One of the main asks of this project was to incorporate a flexible and user friendly way to compare sites, which is why there are three options.
+There was an existing Tableau dashboard about maternal prenatal and postpartum depression screening. Since sharing Tableau dashboards requires the user to download a reader, I was tasked with creating a dashboard that could be shared easily with Shiny, and so that the real data could easily be added. One of the main asks of this project was to incorporate a flexible and user friendly way to compare sites, which is why there are three options.
 
 #
 #

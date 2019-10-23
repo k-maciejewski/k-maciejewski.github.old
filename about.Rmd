@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-I am a recent graduate from the Mailman School of Public Health at Columbia University, where I earned my Masters in Biostatistics.
+I earned my Masters in Biostatistics from the Mailman School of Public Health at Columbia University.
 
 I am currently a biostatistician at the Yale Center for Analytics Sciences.
 
-I hope to use data-driven decisions to improve health care and access to care!
+I hope to use data-driven decisions to improve health care and access to care.
 
 ### I am interested in: 
 - Data science and big data
@@ -22,7 +22,7 @@ I hope to use data-driven decisions to improve health care and access to care!
 
 ### Tools of the trade: 
 
-RStudio, Shiny, SAS, SQL, Tableau, Matlab, loops and arrays ... why do something by hand when a few lines of code can do it just as well!
+RStudio, Shiny, SAS, SQL, Tableau, Matlab, and more
 
 ### Research interests:
 - Big data, data management, data visualization
