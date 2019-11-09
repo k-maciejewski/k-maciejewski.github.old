@@ -3,7 +3,6 @@ title: "Projects"
 ---
 ### [Tidy Tuesdays](https://github.com/k-maciejewski/TidyTuesdays/)
 
-[2019 w 43 - Horror Movies](http://www.rpubs.com/k-maciejewski/545898)
 
 #
 #
