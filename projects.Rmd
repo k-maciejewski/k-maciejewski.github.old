@@ -1,18 +1,13 @@
 ---
 title: "Projects"
 ---
-### [Tidy Tuesdays](https://github.com/k-maciejewski/TidyTuesdays/)
+
+... Personal projects and class projects ...
+
+### [Tidy Tuesdays](https://k-maciejewski.github.io/TidyTuesdays/)
 
 
-#
-#
-
-### [Undergraduate capstone project:](maciejewski_capstone.pdf)
-#### Overview of General Relativity
-
-- Completed at Fairfield University in 2015, under the guidance of Professor Shawn Rafalski. 
-
-I solved the Schwarzschild Solution to Einstein's equations, with simplifying assumptions, such as a 2-D space. These solutions were applied in the MATLAB ODE solver, to visualize the effects of different initial conditions on the behavior of a test particle.
+TidyTuesday is a weekly community activity by the [R4DS Online Learning Community](https://github.com/rfordatascience/tidytuesday). The goal is to help R learners learn in real-world contexts. My contributions and vizualizations are at the [website](https://k-maciejewski.github.io/TidyTuesdays/) and [my github](https://github.com/k-maciejewski/TidyTuesdays/).
 
 
 #
@@ -63,3 +58,13 @@ I collaborated with peers to search for a data set appropriate for classificatio
 - Final project for Biostatistics Methods 1 course at Columbia University Mailman School of Public Health, in collaboration with: Manqi Cai, Peng Lin-Lin, Yixi Xu. 
 
 The dataset was given to us by the professor. In R, I did exploratory analysis of the cleaned data set, to see any possible correlations, outliers, or need to transform data. I recoded some variables for interpretability, tidied the data set and exported for use in SAS. I performed variable selection in SAS, which required me to independently learn how to use SAS studio and the proper calls. I created the code for the linear model in R. I did some of the literature review necessary for this project, helped collaborators create summary tables, and proof-read majority of the report.
+
+#
+#
+
+### [Undergraduate capstone project:](maciejewski_capstone.pdf)
+#### Overview of General Relativity
+
+- Completed at Fairfield University in 2015, under the guidance of Professor Shawn Rafalski. 
+
+I solved the Schwarzschild Solution to Einstein's equations, with simplifying assumptions, such as a 2-D space. These solutions were applied in the MATLAB ODE solver, to visualize the effects of different initial conditions on the behavior of a test particle.
