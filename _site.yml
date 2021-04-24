@@ -7,13 +7,13 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
-    - icon: fa-envelope
+    - icon: fas fa-envelope
       href: mailto:<katemac68@gmail.com>
-    - icon: fa-linkedin-square
+    - icon: fab fa-linkedin-in
       href: https://www.linkedin.com/in/kmaciejewski/
-    - icon: fa-github-square
+    - icon: fab fa-github-square
       href: https://github.com/k-maciejewski/
-    - icon: fa-instagram
+    - icon: fab fa-instagram
       href: https://www.instagram.com/mili_from_chile/
       
 output:

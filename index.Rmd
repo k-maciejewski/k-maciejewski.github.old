@@ -1,7 +1,19 @@
 ---
 title: "Kaitlin Maciejewski"
+output:
+  html_document:
+    self_contained: no
+    css: https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
 ---
 
 #### Biostatistician at Yale University 
 
 <img src="kmbs2.jpeg" style="width:45%">
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6387-582X" href="https://orcid.org/0000-0002-6387-582X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID iD</a></div>
+
+<div><a href="https://www.researchgate.net/profile/Kaitlin-Maciejewski"> 
+<i class="ai ai-researchgate-square ai-1.5x"></i> Research Gate</a></div>
+
+<div><a href="https://scholar.google.com/citations?user=ugU8DQQAAAAJ&hl=en">
+<i class="ai ai-google-scholar-square ai-1.5x"></i> Google Scholar</a></div>
