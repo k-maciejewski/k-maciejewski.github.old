@@ -2,21 +2,29 @@ name: "About"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "About"
       href: about.html
     - text: "Projects"
       href: projects.html
+  right:
     - icon: fas fa-envelope
       href: mailto:<katemac68@gmail.com>
     - icon: fab fa-linkedin-in
       href: https://www.linkedin.com/in/kmaciejewski/
     - icon: fab fa-github-square
       href: https://github.com/k-maciejewski/
-    - icon: fab fa-instagram
-      href: https://www.instagram.com/mili_from_chile/
+    - icon: ai ai-orcid-square
+      href: https://orcid.org/0000-0002-6387-582X
+    - icon: ai ai-researchgate-square
+      href: https://www.researchgate.net/profile/Kaitlin-Maciejewski
+    - icon: ai ai-google-scholar-square
+      href: https://scholar.google.com/citations?user=ugU8DQQAAAAJ&hl=en
+
       
 output:
   html_document:
     theme: flatly
+    css: https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+
   
